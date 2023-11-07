@@ -13,8 +13,8 @@ function App() {
       <>
       <table className='table container-md'>
         <thead>
-          <th>Username</th>
-          <th>Email</th>
+          <th>Users</th>
+          <th>Mail</th>
         </thead>
         <tbody>
           {data.map(m=>
